@@ -5464,3 +5464,498 @@ Error processing JSON: Expecting ',' delimiter: line 1 column 4436 (char 4435) -
 Error processing JSON: Expecting ',' delimiter: line 1 column 2643 (char 2642) - Data: {"paik_3000": {"objektid": "3000", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
 Error processing JSON: Expecting ',' delimiter: line 1 column 5126 (char 5125) - Data: {"paik_895": {"objektid": "895", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses",
 Error processing JSON: Expecting ',' delimiter: line 1 column 966 (char 965) - Data: {"paik_7972": {"objektid": "7972", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4615 (char 4614) - Data: {"paik_8203": {"objektid": "8203", "objektnimi": "Tennisehall -1", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 2703 (char 2702) - Data: {"paik_9700": {"objektid": "9700", "objektnimi": "Aruküla tee - Saadjärve kergliiklustee", "staatus"
+Error processing JSON: Expecting ',' delimiter: line 1 column 1245 (char 1244) - Data: {"paik_1004": {"objektid": "1004", "objektnimi": "Squash´i-saal ", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 5508 (char 5507) - Data: {"paik_2404": {"objektid": "2404", "objektnimi": "Võimla", "staatus": "Spordialases kasutuses", "teh
+Error processing JSON: Expecting ',' delimiter: line 1 column 8367 (char 8366) - Data: {"paik_8055": {"objektid": "8055", "objektnimi": "Rannavõrkpalliplats", "staatus": "Spordialases kas
+Error processing JSON: Expecting ',' delimiter: line 1 column 961 (char 960) - Data: {"paik_133": {"objektid": "133", "objektnimi": "SEA COURSE", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 1388 (char 1387) - Data: {"paik_9496": {"objektid": "9496", "objektnimi": "Haljala - Veltsi kergliiklustee", "staatus": "Spor
+Error processing JSON: Expecting value: line 1 column 1 (char 0) - Data: nan
+Error processing JSON: Expecting ',' delimiter: line 1 column 295 (char 294) - Data: {"paik_3983": {"objektid": "3983", "objektnimi": "Jõulinnak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 5672 (char 5671) - Data: {"paik_11055": {"objektid": "11055", "objektnimi": "Multifunktsionaalne palliväljak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 321 (char 320) - Data: {"paik_10747": {"objektid": "10747", "objektnimi": "Hill Hill piljardisaal", "staatus": "Spordialase
+Error processing JSON: Expecting ',' delimiter: line 1 column 914 (char 913) - Data: {"paik_6573": {"objektid": "6573", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 883 (char 882) - Data: {"paik_8287": {"objektid": "8287", "objektnimi": "Jõetaguse kodanikukaitse harjutusväljak", "staatus
+Error processing JSON: Expecting ',' delimiter: line 1 column 395 (char 394) - Data: {"paik_9412": {"objektid": "9412", "objektnimi": "Jõhvi Edise jõulinnak", "staatus": "Spordialases k
+Error processing JSON: Expecting ',' delimiter: line 1 column 7925 (char 7924) - Data: {"paik_87": {"objektid": "87", "objektnimi": "Pallimängude saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 408 (char 407) - Data: {"paik_4160": {"objektid": "4160", "objektnimi": "Kuremaa suusarajad", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 56 (char 55) - Data: {"paik_8013": {"objektid": "8013", "objektnimi": "\\\\"Sport Court\\\\" kattega pallimängude väljak"
+Error processing JSON: Expecting ',' delimiter: line 1 column 361 (char 360) - Data: {"paik_2361": {"objektid": "2361", "objektnimi": "Narva Noorte Meremeeste Klubi Kulgu tänava veebaas
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_7762": {"objektid": "7762", "objektnimi": "Parkväljak", "staatus": "Spordialases kasutuses", 
+Error processing JSON: Expecting ',' delimiter: line 1 column 963 (char 962) - Data: {"paik_7543": {"objektid": "7543", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 971 (char 970) - Data: {"paik_3738": {"objektid": "3738", "objektnimi": "Otepää golfiväljak", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 8567 (char 8566) - Data: {"paik_5106": {"objektid": "5106", "objektnimi": "Võimla ", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 968 (char 967) - Data: {"paik_9508": {"objektid": "9508", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 744 (char 743) - Data: {"paik_5984": {"objektid": "5984", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 859 (char 858) - Data: {"paik_9363": {"objektid": "9363", "objektnimi": "Pärnu Raba ekstreemspordikeskus", "staatus": "Spor
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_447": {"objektid": "447", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 1440 (char 1439) - Data: {"paik_9658": {"objektid": "9658", "objektnimi": "Sportimiseks kasutatav kergliiklustee", "staatus":
+Error processing JSON: Expecting ',' delimiter: line 1 column 1841 (char 1840) - Data: {"paik_12118": {"objektid": "12118", "objektnimi": "Terviserada", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 965 (char 964) - Data: {"paik_9649": {"objektid": "9649", "objektnimi": "Rõuge golfiväljak", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 975 (char 974) - Data: {"paik_9507": {"objektid": "9507", "objektnimi": "Saare Golf golfiväljak", "staatus": "Spordialases 
+Error processing JSON: Expecting ',' delimiter: line 1 column 1253 (char 1252) - Data: {"paik_21": {"objektid": "21", "objektnimi": "Squash´i-saal - 1", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 8305 (char 8304) - Data: {"paik_9594": {"objektid": "9594", "objektnimi": "Pallimängusaal", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 1342 (char 1341) - Data: {"paik_1165": {"objektid": "1165", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 316 (char 315) - Data: {"paik_10693": {"objektid": "10693", "objektnimi": "Tallinna Reidi tee jõulinnak", "staatus": "Spord
+Error processing JSON: Expecting ',' delimiter: line 1 column 1807 (char 1806) - Data: {"paik_7676": {"objektid": "7676", "objektnimi": "Mänguväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4695 (char 4694) - Data: {"paik_4522": {"objektid": "4522", "objektnimi": "Tere Tennisekeskuse vaibahall", "staatus": "Spordi
+Error processing JSON: Expecting ',' delimiter: line 1 column 2730 (char 2729) - Data: {"paik_3810": {"objektid": "3810", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 6761 (char 6760) - Data: {"paik_1272": {"objektid": "1272", "objektnimi": "Staadion", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 526 (char 525) - Data: {"paik_11481": {"objektid": "11481", "objektnimi": "Valga Jaanikese Kooli jõulinnak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 2275 (char 2274) - Data: {"paik_10759": {"objektid": "10759", "objektnimi": "Petangihall - 2", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 5648 (char 5647) - Data: {"paik_10620": {"objektid": "10620", "objektnimi": "Võrkpalliplats", "staatus": "Spordialases kasutu
+Error processing JSON: Expecting ',' delimiter: line 1 column 4436 (char 4435) - Data: {"paik_9967": {"objektid": "9967", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 2643 (char 2642) - Data: {"paik_3000": {"objektid": "3000", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 5126 (char 5125) - Data: {"paik_895": {"objektid": "895", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 966 (char 965) - Data: {"paik_7972": {"objektid": "7972", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4615 (char 4614) - Data: {"paik_8203": {"objektid": "8203", "objektnimi": "Tennisehall -1", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 2703 (char 2702) - Data: {"paik_9700": {"objektid": "9700", "objektnimi": "Aruküla tee - Saadjärve kergliiklustee", "staatus"
+Error processing JSON: Expecting ',' delimiter: line 1 column 1245 (char 1244) - Data: {"paik_1004": {"objektid": "1004", "objektnimi": "Squash´i-saal ", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 5508 (char 5507) - Data: {"paik_2404": {"objektid": "2404", "objektnimi": "Võimla", "staatus": "Spordialases kasutuses", "teh
+Error processing JSON: Expecting ',' delimiter: line 1 column 8367 (char 8366) - Data: {"paik_8055": {"objektid": "8055", "objektnimi": "Rannavõrkpalliplats", "staatus": "Spordialases kas
+Error processing JSON: Expecting ',' delimiter: line 1 column 961 (char 960) - Data: {"paik_133": {"objektid": "133", "objektnimi": "SEA COURSE", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 1388 (char 1387) - Data: {"paik_9496": {"objektid": "9496", "objektnimi": "Haljala - Veltsi kergliiklustee", "staatus": "Spor
+Error processing JSON: Expecting value: line 1 column 1 (char 0) - Data: nan
+Error processing JSON: Expecting ',' delimiter: line 1 column 295 (char 294) - Data: {"paik_3983": {"objektid": "3983", "objektnimi": "Jõulinnak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 5672 (char 5671) - Data: {"paik_11055": {"objektid": "11055", "objektnimi": "Multifunktsionaalne palliväljak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 321 (char 320) - Data: {"paik_10747": {"objektid": "10747", "objektnimi": "Hill Hill piljardisaal", "staatus": "Spordialase
+Error processing JSON: Expecting ',' delimiter: line 1 column 914 (char 913) - Data: {"paik_6573": {"objektid": "6573", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 883 (char 882) - Data: {"paik_8287": {"objektid": "8287", "objektnimi": "Jõetaguse kodanikukaitse harjutusväljak", "staatus
+Error processing JSON: Expecting ',' delimiter: line 1 column 395 (char 394) - Data: {"paik_9412": {"objektid": "9412", "objektnimi": "Jõhvi Edise jõulinnak", "staatus": "Spordialases k
+Error processing JSON: Expecting ',' delimiter: line 1 column 7925 (char 7924) - Data: {"paik_87": {"objektid": "87", "objektnimi": "Pallimängude saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 408 (char 407) - Data: {"paik_4160": {"objektid": "4160", "objektnimi": "Kuremaa suusarajad", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 56 (char 55) - Data: {"paik_8013": {"objektid": "8013", "objektnimi": "\\\\"Sport Court\\\\" kattega pallimängude väljak"
+Error processing JSON: Expecting ',' delimiter: line 1 column 361 (char 360) - Data: {"paik_2361": {"objektid": "2361", "objektnimi": "Narva Noorte Meremeeste Klubi Kulgu tänava veebaas
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_7762": {"objektid": "7762", "objektnimi": "Parkväljak", "staatus": "Spordialases kasutuses", 
+Error processing JSON: Expecting ',' delimiter: line 1 column 963 (char 962) - Data: {"paik_7543": {"objektid": "7543", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 971 (char 970) - Data: {"paik_3738": {"objektid": "3738", "objektnimi": "Otepää golfiväljak", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 8567 (char 8566) - Data: {"paik_5106": {"objektid": "5106", "objektnimi": "Võimla ", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 968 (char 967) - Data: {"paik_9508": {"objektid": "9508", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 744 (char 743) - Data: {"paik_5984": {"objektid": "5984", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 859 (char 858) - Data: {"paik_9363": {"objektid": "9363", "objektnimi": "Pärnu Raba ekstreemspordikeskus", "staatus": "Spor
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_447": {"objektid": "447", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 1440 (char 1439) - Data: {"paik_9658": {"objektid": "9658", "objektnimi": "Sportimiseks kasutatav kergliiklustee", "staatus":
+Error processing JSON: Expecting ',' delimiter: line 1 column 1841 (char 1840) - Data: {"paik_12118": {"objektid": "12118", "objektnimi": "Terviserada", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 965 (char 964) - Data: {"paik_9649": {"objektid": "9649", "objektnimi": "Rõuge golfiväljak", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 975 (char 974) - Data: {"paik_9507": {"objektid": "9507", "objektnimi": "Saare Golf golfiväljak", "staatus": "Spordialases 
+Error processing JSON: Expecting ',' delimiter: line 1 column 1253 (char 1252) - Data: {"paik_21": {"objektid": "21", "objektnimi": "Squash´i-saal - 1", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 8305 (char 8304) - Data: {"paik_9594": {"objektid": "9594", "objektnimi": "Pallimängusaal", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 1342 (char 1341) - Data: {"paik_1165": {"objektid": "1165", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 316 (char 315) - Data: {"paik_10693": {"objektid": "10693", "objektnimi": "Tallinna Reidi tee jõulinnak", "staatus": "Spord
+Error processing JSON: Expecting ',' delimiter: line 1 column 1807 (char 1806) - Data: {"paik_7676": {"objektid": "7676", "objektnimi": "Mänguväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4695 (char 4694) - Data: {"paik_4522": {"objektid": "4522", "objektnimi": "Tere Tennisekeskuse vaibahall", "staatus": "Spordi
+Error processing JSON: Expecting ',' delimiter: line 1 column 2730 (char 2729) - Data: {"paik_3810": {"objektid": "3810", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 6761 (char 6760) - Data: {"paik_1272": {"objektid": "1272", "objektnimi": "Staadion", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 526 (char 525) - Data: {"paik_11481": {"objektid": "11481", "objektnimi": "Valga Jaanikese Kooli jõulinnak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 2275 (char 2274) - Data: {"paik_10759": {"objektid": "10759", "objektnimi": "Petangihall - 2", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 5648 (char 5647) - Data: {"paik_10620": {"objektid": "10620", "objektnimi": "Võrkpalliplats", "staatus": "Spordialases kasutu
+Error processing JSON: Expecting ',' delimiter: line 1 column 4436 (char 4435) - Data: {"paik_9967": {"objektid": "9967", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 2643 (char 2642) - Data: {"paik_3000": {"objektid": "3000", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 5126 (char 5125) - Data: {"paik_895": {"objektid": "895", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 966 (char 965) - Data: {"paik_7972": {"objektid": "7972", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4615 (char 4614) - Data: {"paik_8203": {"objektid": "8203", "objektnimi": "Tennisehall -1", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 2703 (char 2702) - Data: {"paik_9700": {"objektid": "9700", "objektnimi": "Aruküla tee - Saadjärve kergliiklustee", "staatus"
+Error processing JSON: Expecting ',' delimiter: line 1 column 1245 (char 1244) - Data: {"paik_1004": {"objektid": "1004", "objektnimi": "Squash´i-saal ", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 5508 (char 5507) - Data: {"paik_2404": {"objektid": "2404", "objektnimi": "Võimla", "staatus": "Spordialases kasutuses", "teh
+Error processing JSON: Expecting ',' delimiter: line 1 column 8367 (char 8366) - Data: {"paik_8055": {"objektid": "8055", "objektnimi": "Rannavõrkpalliplats", "staatus": "Spordialases kas
+Error processing JSON: Expecting ',' delimiter: line 1 column 961 (char 960) - Data: {"paik_133": {"objektid": "133", "objektnimi": "SEA COURSE", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 1388 (char 1387) - Data: {"paik_9496": {"objektid": "9496", "objektnimi": "Haljala - Veltsi kergliiklustee", "staatus": "Spor
+Error processing JSON: Expecting value: line 1 column 1 (char 0) - Data: nan
+Error processing JSON: Expecting ',' delimiter: line 1 column 295 (char 294) - Data: {"paik_3983": {"objektid": "3983", "objektnimi": "Jõulinnak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 5672 (char 5671) - Data: {"paik_11055": {"objektid": "11055", "objektnimi": "Multifunktsionaalne palliväljak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 321 (char 320) - Data: {"paik_10747": {"objektid": "10747", "objektnimi": "Hill Hill piljardisaal", "staatus": "Spordialase
+Error processing JSON: Expecting ',' delimiter: line 1 column 914 (char 913) - Data: {"paik_6573": {"objektid": "6573", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 883 (char 882) - Data: {"paik_8287": {"objektid": "8287", "objektnimi": "Jõetaguse kodanikukaitse harjutusväljak", "staatus
+Error processing JSON: Expecting ',' delimiter: line 1 column 395 (char 394) - Data: {"paik_9412": {"objektid": "9412", "objektnimi": "Jõhvi Edise jõulinnak", "staatus": "Spordialases k
+Error processing JSON: Expecting ',' delimiter: line 1 column 7925 (char 7924) - Data: {"paik_87": {"objektid": "87", "objektnimi": "Pallimängude saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 408 (char 407) - Data: {"paik_4160": {"objektid": "4160", "objektnimi": "Kuremaa suusarajad", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 56 (char 55) - Data: {"paik_8013": {"objektid": "8013", "objektnimi": "\\\\"Sport Court\\\\" kattega pallimängude väljak"
+Error processing JSON: Expecting ',' delimiter: line 1 column 361 (char 360) - Data: {"paik_2361": {"objektid": "2361", "objektnimi": "Narva Noorte Meremeeste Klubi Kulgu tänava veebaas
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_7762": {"objektid": "7762", "objektnimi": "Parkväljak", "staatus": "Spordialases kasutuses", 
+Error processing JSON: Expecting ',' delimiter: line 1 column 963 (char 962) - Data: {"paik_7543": {"objektid": "7543", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 971 (char 970) - Data: {"paik_3738": {"objektid": "3738", "objektnimi": "Otepää golfiväljak", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 8567 (char 8566) - Data: {"paik_5106": {"objektid": "5106", "objektnimi": "Võimla ", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 968 (char 967) - Data: {"paik_9508": {"objektid": "9508", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 744 (char 743) - Data: {"paik_5984": {"objektid": "5984", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 859 (char 858) - Data: {"paik_9363": {"objektid": "9363", "objektnimi": "Pärnu Raba ekstreemspordikeskus", "staatus": "Spor
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_447": {"objektid": "447", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 1440 (char 1439) - Data: {"paik_9658": {"objektid": "9658", "objektnimi": "Sportimiseks kasutatav kergliiklustee", "staatus":
+Error processing JSON: Expecting ',' delimiter: line 1 column 1841 (char 1840) - Data: {"paik_12118": {"objektid": "12118", "objektnimi": "Terviserada", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 965 (char 964) - Data: {"paik_9649": {"objektid": "9649", "objektnimi": "Rõuge golfiväljak", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 975 (char 974) - Data: {"paik_9507": {"objektid": "9507", "objektnimi": "Saare Golf golfiväljak", "staatus": "Spordialases 
+Error processing JSON: Expecting ',' delimiter: line 1 column 1253 (char 1252) - Data: {"paik_21": {"objektid": "21", "objektnimi": "Squash´i-saal - 1", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 8305 (char 8304) - Data: {"paik_9594": {"objektid": "9594", "objektnimi": "Pallimängusaal", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 1342 (char 1341) - Data: {"paik_1165": {"objektid": "1165", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 316 (char 315) - Data: {"paik_10693": {"objektid": "10693", "objektnimi": "Tallinna Reidi tee jõulinnak", "staatus": "Spord
+Error processing JSON: Expecting ',' delimiter: line 1 column 1807 (char 1806) - Data: {"paik_7676": {"objektid": "7676", "objektnimi": "Mänguväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4695 (char 4694) - Data: {"paik_4522": {"objektid": "4522", "objektnimi": "Tere Tennisekeskuse vaibahall", "staatus": "Spordi
+Error processing JSON: Expecting ',' delimiter: line 1 column 2730 (char 2729) - Data: {"paik_3810": {"objektid": "3810", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 6761 (char 6760) - Data: {"paik_1272": {"objektid": "1272", "objektnimi": "Staadion", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 526 (char 525) - Data: {"paik_11481": {"objektid": "11481", "objektnimi": "Valga Jaanikese Kooli jõulinnak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 2275 (char 2274) - Data: {"paik_10759": {"objektid": "10759", "objektnimi": "Petangihall - 2", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 5648 (char 5647) - Data: {"paik_10620": {"objektid": "10620", "objektnimi": "Võrkpalliplats", "staatus": "Spordialases kasutu
+Error processing JSON: Expecting ',' delimiter: line 1 column 4436 (char 4435) - Data: {"paik_9967": {"objektid": "9967", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 2643 (char 2642) - Data: {"paik_3000": {"objektid": "3000", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 5126 (char 5125) - Data: {"paik_895": {"objektid": "895", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 966 (char 965) - Data: {"paik_7972": {"objektid": "7972", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4615 (char 4614) - Data: {"paik_8203": {"objektid": "8203", "objektnimi": "Tennisehall -1", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 2703 (char 2702) - Data: {"paik_9700": {"objektid": "9700", "objektnimi": "Aruküla tee - Saadjärve kergliiklustee", "staatus"
+Error processing JSON: Expecting ',' delimiter: line 1 column 1245 (char 1244) - Data: {"paik_1004": {"objektid": "1004", "objektnimi": "Squash´i-saal ", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 5508 (char 5507) - Data: {"paik_2404": {"objektid": "2404", "objektnimi": "Võimla", "staatus": "Spordialases kasutuses", "teh
+Error processing JSON: Expecting ',' delimiter: line 1 column 8367 (char 8366) - Data: {"paik_8055": {"objektid": "8055", "objektnimi": "Rannavõrkpalliplats", "staatus": "Spordialases kas
+Error processing JSON: Expecting ',' delimiter: line 1 column 961 (char 960) - Data: {"paik_133": {"objektid": "133", "objektnimi": "SEA COURSE", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 1388 (char 1387) - Data: {"paik_9496": {"objektid": "9496", "objektnimi": "Haljala - Veltsi kergliiklustee", "staatus": "Spor
+Error processing JSON: Expecting value: line 1 column 1 (char 0) - Data: nan
+Error processing JSON: Expecting ',' delimiter: line 1 column 295 (char 294) - Data: {"paik_3983": {"objektid": "3983", "objektnimi": "Jõulinnak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 5672 (char 5671) - Data: {"paik_11055": {"objektid": "11055", "objektnimi": "Multifunktsionaalne palliväljak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 321 (char 320) - Data: {"paik_10747": {"objektid": "10747", "objektnimi": "Hill Hill piljardisaal", "staatus": "Spordialase
+Error processing JSON: Expecting ',' delimiter: line 1 column 914 (char 913) - Data: {"paik_6573": {"objektid": "6573", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 883 (char 882) - Data: {"paik_8287": {"objektid": "8287", "objektnimi": "Jõetaguse kodanikukaitse harjutusväljak", "staatus
+Error processing JSON: Expecting ',' delimiter: line 1 column 395 (char 394) - Data: {"paik_9412": {"objektid": "9412", "objektnimi": "Jõhvi Edise jõulinnak", "staatus": "Spordialases k
+Error processing JSON: Expecting ',' delimiter: line 1 column 7925 (char 7924) - Data: {"paik_87": {"objektid": "87", "objektnimi": "Pallimängude saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 408 (char 407) - Data: {"paik_4160": {"objektid": "4160", "objektnimi": "Kuremaa suusarajad", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 56 (char 55) - Data: {"paik_8013": {"objektid": "8013", "objektnimi": "\\\\"Sport Court\\\\" kattega pallimängude väljak"
+Error processing JSON: Expecting ',' delimiter: line 1 column 361 (char 360) - Data: {"paik_2361": {"objektid": "2361", "objektnimi": "Narva Noorte Meremeeste Klubi Kulgu tänava veebaas
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_7762": {"objektid": "7762", "objektnimi": "Parkväljak", "staatus": "Spordialases kasutuses", 
+Error processing JSON: Expecting ',' delimiter: line 1 column 963 (char 962) - Data: {"paik_7543": {"objektid": "7543", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 971 (char 970) - Data: {"paik_3738": {"objektid": "3738", "objektnimi": "Otepää golfiväljak", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 8567 (char 8566) - Data: {"paik_5106": {"objektid": "5106", "objektnimi": "Võimla ", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 968 (char 967) - Data: {"paik_9508": {"objektid": "9508", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 744 (char 743) - Data: {"paik_5984": {"objektid": "5984", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 859 (char 858) - Data: {"paik_9363": {"objektid": "9363", "objektnimi": "Pärnu Raba ekstreemspordikeskus", "staatus": "Spor
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_447": {"objektid": "447", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 1440 (char 1439) - Data: {"paik_9658": {"objektid": "9658", "objektnimi": "Sportimiseks kasutatav kergliiklustee", "staatus":
+Error processing JSON: Expecting ',' delimiter: line 1 column 1841 (char 1840) - Data: {"paik_12118": {"objektid": "12118", "objektnimi": "Terviserada", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 965 (char 964) - Data: {"paik_9649": {"objektid": "9649", "objektnimi": "Rõuge golfiväljak", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 975 (char 974) - Data: {"paik_9507": {"objektid": "9507", "objektnimi": "Saare Golf golfiväljak", "staatus": "Spordialases 
+Error processing JSON: Expecting ',' delimiter: line 1 column 1253 (char 1252) - Data: {"paik_21": {"objektid": "21", "objektnimi": "Squash´i-saal - 1", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 8305 (char 8304) - Data: {"paik_9594": {"objektid": "9594", "objektnimi": "Pallimängusaal", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 1342 (char 1341) - Data: {"paik_1165": {"objektid": "1165", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 316 (char 315) - Data: {"paik_10693": {"objektid": "10693", "objektnimi": "Tallinna Reidi tee jõulinnak", "staatus": "Spord
+Error processing JSON: Expecting ',' delimiter: line 1 column 1807 (char 1806) - Data: {"paik_7676": {"objektid": "7676", "objektnimi": "Mänguväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4695 (char 4694) - Data: {"paik_4522": {"objektid": "4522", "objektnimi": "Tere Tennisekeskuse vaibahall", "staatus": "Spordi
+Error processing JSON: Expecting ',' delimiter: line 1 column 2730 (char 2729) - Data: {"paik_3810": {"objektid": "3810", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 6761 (char 6760) - Data: {"paik_1272": {"objektid": "1272", "objektnimi": "Staadion", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 526 (char 525) - Data: {"paik_11481": {"objektid": "11481", "objektnimi": "Valga Jaanikese Kooli jõulinnak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 2275 (char 2274) - Data: {"paik_10759": {"objektid": "10759", "objektnimi": "Petangihall - 2", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 5648 (char 5647) - Data: {"paik_10620": {"objektid": "10620", "objektnimi": "Võrkpalliplats", "staatus": "Spordialases kasutu
+Error processing JSON: Expecting ',' delimiter: line 1 column 4436 (char 4435) - Data: {"paik_9967": {"objektid": "9967", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 2643 (char 2642) - Data: {"paik_3000": {"objektid": "3000", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 5126 (char 5125) - Data: {"paik_895": {"objektid": "895", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 966 (char 965) - Data: {"paik_7972": {"objektid": "7972", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4615 (char 4614) - Data: {"paik_8203": {"objektid": "8203", "objektnimi": "Tennisehall -1", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 2703 (char 2702) - Data: {"paik_9700": {"objektid": "9700", "objektnimi": "Aruküla tee - Saadjärve kergliiklustee", "staatus"
+Error processing JSON: Expecting ',' delimiter: line 1 column 1245 (char 1244) - Data: {"paik_1004": {"objektid": "1004", "objektnimi": "Squash´i-saal ", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 5508 (char 5507) - Data: {"paik_2404": {"objektid": "2404", "objektnimi": "Võimla", "staatus": "Spordialases kasutuses", "teh
+Error processing JSON: Expecting ',' delimiter: line 1 column 8367 (char 8366) - Data: {"paik_8055": {"objektid": "8055", "objektnimi": "Rannavõrkpalliplats", "staatus": "Spordialases kas
+Error processing JSON: Expecting ',' delimiter: line 1 column 961 (char 960) - Data: {"paik_133": {"objektid": "133", "objektnimi": "SEA COURSE", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 1388 (char 1387) - Data: {"paik_9496": {"objektid": "9496", "objektnimi": "Haljala - Veltsi kergliiklustee", "staatus": "Spor
+Error processing JSON: Expecting value: line 1 column 1 (char 0) - Data: nan
+Error processing JSON: Expecting ',' delimiter: line 1 column 295 (char 294) - Data: {"paik_3983": {"objektid": "3983", "objektnimi": "Jõulinnak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 5672 (char 5671) - Data: {"paik_11055": {"objektid": "11055", "objektnimi": "Multifunktsionaalne palliväljak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 321 (char 320) - Data: {"paik_10747": {"objektid": "10747", "objektnimi": "Hill Hill piljardisaal", "staatus": "Spordialase
+Error processing JSON: Expecting ',' delimiter: line 1 column 914 (char 913) - Data: {"paik_6573": {"objektid": "6573", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 883 (char 882) - Data: {"paik_8287": {"objektid": "8287", "objektnimi": "Jõetaguse kodanikukaitse harjutusväljak", "staatus
+Error processing JSON: Expecting ',' delimiter: line 1 column 395 (char 394) - Data: {"paik_9412": {"objektid": "9412", "objektnimi": "Jõhvi Edise jõulinnak", "staatus": "Spordialases k
+Error processing JSON: Expecting ',' delimiter: line 1 column 7925 (char 7924) - Data: {"paik_87": {"objektid": "87", "objektnimi": "Pallimängude saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 408 (char 407) - Data: {"paik_4160": {"objektid": "4160", "objektnimi": "Kuremaa suusarajad", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 56 (char 55) - Data: {"paik_8013": {"objektid": "8013", "objektnimi": "\\\\"Sport Court\\\\" kattega pallimängude väljak"
+Error processing JSON: Expecting ',' delimiter: line 1 column 361 (char 360) - Data: {"paik_2361": {"objektid": "2361", "objektnimi": "Narva Noorte Meremeeste Klubi Kulgu tänava veebaas
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_7762": {"objektid": "7762", "objektnimi": "Parkväljak", "staatus": "Spordialases kasutuses", 
+Error processing JSON: Expecting ',' delimiter: line 1 column 963 (char 962) - Data: {"paik_7543": {"objektid": "7543", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 971 (char 970) - Data: {"paik_3738": {"objektid": "3738", "objektnimi": "Otepää golfiväljak", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 8567 (char 8566) - Data: {"paik_5106": {"objektid": "5106", "objektnimi": "Võimla ", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 968 (char 967) - Data: {"paik_9508": {"objektid": "9508", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 744 (char 743) - Data: {"paik_5984": {"objektid": "5984", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 859 (char 858) - Data: {"paik_9363": {"objektid": "9363", "objektnimi": "Pärnu Raba ekstreemspordikeskus", "staatus": "Spor
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_447": {"objektid": "447", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 1440 (char 1439) - Data: {"paik_9658": {"objektid": "9658", "objektnimi": "Sportimiseks kasutatav kergliiklustee", "staatus":
+Error processing JSON: Expecting ',' delimiter: line 1 column 1841 (char 1840) - Data: {"paik_12118": {"objektid": "12118", "objektnimi": "Terviserada", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 965 (char 964) - Data: {"paik_9649": {"objektid": "9649", "objektnimi": "Rõuge golfiväljak", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 975 (char 974) - Data: {"paik_9507": {"objektid": "9507", "objektnimi": "Saare Golf golfiväljak", "staatus": "Spordialases 
+Error processing JSON: Expecting ',' delimiter: line 1 column 1253 (char 1252) - Data: {"paik_21": {"objektid": "21", "objektnimi": "Squash´i-saal - 1", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 8305 (char 8304) - Data: {"paik_9594": {"objektid": "9594", "objektnimi": "Pallimängusaal", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 1342 (char 1341) - Data: {"paik_1165": {"objektid": "1165", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 316 (char 315) - Data: {"paik_10693": {"objektid": "10693", "objektnimi": "Tallinna Reidi tee jõulinnak", "staatus": "Spord
+Error processing JSON: Expecting ',' delimiter: line 1 column 1807 (char 1806) - Data: {"paik_7676": {"objektid": "7676", "objektnimi": "Mänguväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4695 (char 4694) - Data: {"paik_4522": {"objektid": "4522", "objektnimi": "Tere Tennisekeskuse vaibahall", "staatus": "Spordi
+Error processing JSON: Expecting ',' delimiter: line 1 column 2730 (char 2729) - Data: {"paik_3810": {"objektid": "3810", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 6761 (char 6760) - Data: {"paik_1272": {"objektid": "1272", "objektnimi": "Staadion", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 526 (char 525) - Data: {"paik_11481": {"objektid": "11481", "objektnimi": "Valga Jaanikese Kooli jõulinnak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 2275 (char 2274) - Data: {"paik_10759": {"objektid": "10759", "objektnimi": "Petangihall - 2", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 5648 (char 5647) - Data: {"paik_10620": {"objektid": "10620", "objektnimi": "Võrkpalliplats", "staatus": "Spordialases kasutu
+Error processing JSON: Expecting ',' delimiter: line 1 column 4436 (char 4435) - Data: {"paik_9967": {"objektid": "9967", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 2643 (char 2642) - Data: {"paik_3000": {"objektid": "3000", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 5126 (char 5125) - Data: {"paik_895": {"objektid": "895", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 966 (char 965) - Data: {"paik_7972": {"objektid": "7972", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4615 (char 4614) - Data: {"paik_8203": {"objektid": "8203", "objektnimi": "Tennisehall -1", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 2703 (char 2702) - Data: {"paik_9700": {"objektid": "9700", "objektnimi": "Aruküla tee - Saadjärve kergliiklustee", "staatus"
+Error processing JSON: Expecting ',' delimiter: line 1 column 1245 (char 1244) - Data: {"paik_1004": {"objektid": "1004", "objektnimi": "Squash´i-saal ", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 5508 (char 5507) - Data: {"paik_2404": {"objektid": "2404", "objektnimi": "Võimla", "staatus": "Spordialases kasutuses", "teh
+Error processing JSON: Expecting ',' delimiter: line 1 column 8367 (char 8366) - Data: {"paik_8055": {"objektid": "8055", "objektnimi": "Rannavõrkpalliplats", "staatus": "Spordialases kas
+Error processing JSON: Expecting ',' delimiter: line 1 column 961 (char 960) - Data: {"paik_133": {"objektid": "133", "objektnimi": "SEA COURSE", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 1388 (char 1387) - Data: {"paik_9496": {"objektid": "9496", "objektnimi": "Haljala - Veltsi kergliiklustee", "staatus": "Spor
+Error processing JSON: Expecting value: line 1 column 1 (char 0) - Data: nan
+Error processing JSON: Expecting ',' delimiter: line 1 column 295 (char 294) - Data: {"paik_3983": {"objektid": "3983", "objektnimi": "Jõulinnak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 5672 (char 5671) - Data: {"paik_11055": {"objektid": "11055", "objektnimi": "Multifunktsionaalne palliväljak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 321 (char 320) - Data: {"paik_10747": {"objektid": "10747", "objektnimi": "Hill Hill piljardisaal", "staatus": "Spordialase
+Error processing JSON: Expecting ',' delimiter: line 1 column 914 (char 913) - Data: {"paik_6573": {"objektid": "6573", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 883 (char 882) - Data: {"paik_8287": {"objektid": "8287", "objektnimi": "Jõetaguse kodanikukaitse harjutusväljak", "staatus
+Error processing JSON: Expecting ',' delimiter: line 1 column 395 (char 394) - Data: {"paik_9412": {"objektid": "9412", "objektnimi": "Jõhvi Edise jõulinnak", "staatus": "Spordialases k
+Error processing JSON: Expecting ',' delimiter: line 1 column 7925 (char 7924) - Data: {"paik_87": {"objektid": "87", "objektnimi": "Pallimängude saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 408 (char 407) - Data: {"paik_4160": {"objektid": "4160", "objektnimi": "Kuremaa suusarajad", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 56 (char 55) - Data: {"paik_8013": {"objektid": "8013", "objektnimi": "\\\\"Sport Court\\\\" kattega pallimängude väljak"
+Error processing JSON: Expecting ',' delimiter: line 1 column 361 (char 360) - Data: {"paik_2361": {"objektid": "2361", "objektnimi": "Narva Noorte Meremeeste Klubi Kulgu tänava veebaas
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_7762": {"objektid": "7762", "objektnimi": "Parkväljak", "staatus": "Spordialases kasutuses", 
+Error processing JSON: Expecting ',' delimiter: line 1 column 963 (char 962) - Data: {"paik_7543": {"objektid": "7543", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 971 (char 970) - Data: {"paik_3738": {"objektid": "3738", "objektnimi": "Otepää golfiväljak", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 8567 (char 8566) - Data: {"paik_5106": {"objektid": "5106", "objektnimi": "Võimla ", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 968 (char 967) - Data: {"paik_9508": {"objektid": "9508", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 744 (char 743) - Data: {"paik_5984": {"objektid": "5984", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 859 (char 858) - Data: {"paik_9363": {"objektid": "9363", "objektnimi": "Pärnu Raba ekstreemspordikeskus", "staatus": "Spor
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_447": {"objektid": "447", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 1440 (char 1439) - Data: {"paik_9658": {"objektid": "9658", "objektnimi": "Sportimiseks kasutatav kergliiklustee", "staatus":
+Error processing JSON: Expecting ',' delimiter: line 1 column 1841 (char 1840) - Data: {"paik_12118": {"objektid": "12118", "objektnimi": "Terviserada", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 965 (char 964) - Data: {"paik_9649": {"objektid": "9649", "objektnimi": "Rõuge golfiväljak", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 975 (char 974) - Data: {"paik_9507": {"objektid": "9507", "objektnimi": "Saare Golf golfiväljak", "staatus": "Spordialases 
+Error processing JSON: Expecting ',' delimiter: line 1 column 1253 (char 1252) - Data: {"paik_21": {"objektid": "21", "objektnimi": "Squash´i-saal - 1", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 8305 (char 8304) - Data: {"paik_9594": {"objektid": "9594", "objektnimi": "Pallimängusaal", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 1342 (char 1341) - Data: {"paik_1165": {"objektid": "1165", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 316 (char 315) - Data: {"paik_10693": {"objektid": "10693", "objektnimi": "Tallinna Reidi tee jõulinnak", "staatus": "Spord
+Error processing JSON: Expecting ',' delimiter: line 1 column 1807 (char 1806) - Data: {"paik_7676": {"objektid": "7676", "objektnimi": "Mänguväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4695 (char 4694) - Data: {"paik_4522": {"objektid": "4522", "objektnimi": "Tere Tennisekeskuse vaibahall", "staatus": "Spordi
+Error processing JSON: Expecting ',' delimiter: line 1 column 2730 (char 2729) - Data: {"paik_3810": {"objektid": "3810", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 6761 (char 6760) - Data: {"paik_1272": {"objektid": "1272", "objektnimi": "Staadion", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 526 (char 525) - Data: {"paik_11481": {"objektid": "11481", "objektnimi": "Valga Jaanikese Kooli jõulinnak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 2275 (char 2274) - Data: {"paik_10759": {"objektid": "10759", "objektnimi": "Petangihall - 2", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 5648 (char 5647) - Data: {"paik_10620": {"objektid": "10620", "objektnimi": "Võrkpalliplats", "staatus": "Spordialases kasutu
+Error processing JSON: Expecting ',' delimiter: line 1 column 4436 (char 4435) - Data: {"paik_9967": {"objektid": "9967", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 2643 (char 2642) - Data: {"paik_3000": {"objektid": "3000", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 5126 (char 5125) - Data: {"paik_895": {"objektid": "895", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 966 (char 965) - Data: {"paik_7972": {"objektid": "7972", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4615 (char 4614) - Data: {"paik_8203": {"objektid": "8203", "objektnimi": "Tennisehall -1", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 2703 (char 2702) - Data: {"paik_9700": {"objektid": "9700", "objektnimi": "Aruküla tee - Saadjärve kergliiklustee", "staatus"
+Error processing JSON: Expecting ',' delimiter: line 1 column 1245 (char 1244) - Data: {"paik_1004": {"objektid": "1004", "objektnimi": "Squash´i-saal ", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 5508 (char 5507) - Data: {"paik_2404": {"objektid": "2404", "objektnimi": "Võimla", "staatus": "Spordialases kasutuses", "teh
+Error processing JSON: Expecting ',' delimiter: line 1 column 8367 (char 8366) - Data: {"paik_8055": {"objektid": "8055", "objektnimi": "Rannavõrkpalliplats", "staatus": "Spordialases kas
+Error processing JSON: Expecting ',' delimiter: line 1 column 961 (char 960) - Data: {"paik_133": {"objektid": "133", "objektnimi": "SEA COURSE", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 1388 (char 1387) - Data: {"paik_9496": {"objektid": "9496", "objektnimi": "Haljala - Veltsi kergliiklustee", "staatus": "Spor
+Error processing JSON: Expecting value: line 1 column 1 (char 0) - Data: nan
+Error processing JSON: Expecting ',' delimiter: line 1 column 295 (char 294) - Data: {"paik_3983": {"objektid": "3983", "objektnimi": "Jõulinnak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 5672 (char 5671) - Data: {"paik_11055": {"objektid": "11055", "objektnimi": "Multifunktsionaalne palliväljak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 321 (char 320) - Data: {"paik_10747": {"objektid": "10747", "objektnimi": "Hill Hill piljardisaal", "staatus": "Spordialase
+Error processing JSON: Expecting ',' delimiter: line 1 column 914 (char 913) - Data: {"paik_6573": {"objektid": "6573", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 883 (char 882) - Data: {"paik_8287": {"objektid": "8287", "objektnimi": "Jõetaguse kodanikukaitse harjutusväljak", "staatus
+Error processing JSON: Expecting ',' delimiter: line 1 column 395 (char 394) - Data: {"paik_9412": {"objektid": "9412", "objektnimi": "Jõhvi Edise jõulinnak", "staatus": "Spordialases k
+Error processing JSON: Expecting ',' delimiter: line 1 column 7925 (char 7924) - Data: {"paik_87": {"objektid": "87", "objektnimi": "Pallimängude saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 408 (char 407) - Data: {"paik_4160": {"objektid": "4160", "objektnimi": "Kuremaa suusarajad", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 56 (char 55) - Data: {"paik_8013": {"objektid": "8013", "objektnimi": "\\\\"Sport Court\\\\" kattega pallimängude väljak"
+Error processing JSON: Expecting ',' delimiter: line 1 column 361 (char 360) - Data: {"paik_2361": {"objektid": "2361", "objektnimi": "Narva Noorte Meremeeste Klubi Kulgu tänava veebaas
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_7762": {"objektid": "7762", "objektnimi": "Parkväljak", "staatus": "Spordialases kasutuses", 
+Error processing JSON: Expecting ',' delimiter: line 1 column 963 (char 962) - Data: {"paik_7543": {"objektid": "7543", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 971 (char 970) - Data: {"paik_3738": {"objektid": "3738", "objektnimi": "Otepää golfiväljak", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 8567 (char 8566) - Data: {"paik_5106": {"objektid": "5106", "objektnimi": "Võimla ", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 968 (char 967) - Data: {"paik_9508": {"objektid": "9508", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 744 (char 743) - Data: {"paik_5984": {"objektid": "5984", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 859 (char 858) - Data: {"paik_9363": {"objektid": "9363", "objektnimi": "Pärnu Raba ekstreemspordikeskus", "staatus": "Spor
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_447": {"objektid": "447", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 1440 (char 1439) - Data: {"paik_9658": {"objektid": "9658", "objektnimi": "Sportimiseks kasutatav kergliiklustee", "staatus":
+Error processing JSON: Expecting ',' delimiter: line 1 column 1841 (char 1840) - Data: {"paik_12118": {"objektid": "12118", "objektnimi": "Terviserada", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 965 (char 964) - Data: {"paik_9649": {"objektid": "9649", "objektnimi": "Rõuge golfiväljak", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 975 (char 974) - Data: {"paik_9507": {"objektid": "9507", "objektnimi": "Saare Golf golfiväljak", "staatus": "Spordialases 
+Error processing JSON: Expecting ',' delimiter: line 1 column 1253 (char 1252) - Data: {"paik_21": {"objektid": "21", "objektnimi": "Squash´i-saal - 1", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 8305 (char 8304) - Data: {"paik_9594": {"objektid": "9594", "objektnimi": "Pallimängusaal", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 1342 (char 1341) - Data: {"paik_1165": {"objektid": "1165", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 316 (char 315) - Data: {"paik_10693": {"objektid": "10693", "objektnimi": "Tallinna Reidi tee jõulinnak", "staatus": "Spord
+Error processing JSON: Expecting ',' delimiter: line 1 column 1807 (char 1806) - Data: {"paik_7676": {"objektid": "7676", "objektnimi": "Mänguväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4695 (char 4694) - Data: {"paik_4522": {"objektid": "4522", "objektnimi": "Tere Tennisekeskuse vaibahall", "staatus": "Spordi
+Error processing JSON: Expecting ',' delimiter: line 1 column 2730 (char 2729) - Data: {"paik_3810": {"objektid": "3810", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 6761 (char 6760) - Data: {"paik_1272": {"objektid": "1272", "objektnimi": "Staadion", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 526 (char 525) - Data: {"paik_11481": {"objektid": "11481", "objektnimi": "Valga Jaanikese Kooli jõulinnak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 2275 (char 2274) - Data: {"paik_10759": {"objektid": "10759", "objektnimi": "Petangihall - 2", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 5648 (char 5647) - Data: {"paik_10620": {"objektid": "10620", "objektnimi": "Võrkpalliplats", "staatus": "Spordialases kasutu
+Error processing JSON: Expecting ',' delimiter: line 1 column 4436 (char 4435) - Data: {"paik_9967": {"objektid": "9967", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 2643 (char 2642) - Data: {"paik_3000": {"objektid": "3000", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 5126 (char 5125) - Data: {"paik_895": {"objektid": "895", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 966 (char 965) - Data: {"paik_7972": {"objektid": "7972", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4615 (char 4614) - Data: {"paik_8203": {"objektid": "8203", "objektnimi": "Tennisehall -1", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 2703 (char 2702) - Data: {"paik_9700": {"objektid": "9700", "objektnimi": "Aruküla tee - Saadjärve kergliiklustee", "staatus"
+Error processing JSON: Expecting ',' delimiter: line 1 column 1245 (char 1244) - Data: {"paik_1004": {"objektid": "1004", "objektnimi": "Squash´i-saal ", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 5508 (char 5507) - Data: {"paik_2404": {"objektid": "2404", "objektnimi": "Võimla", "staatus": "Spordialases kasutuses", "teh
+Error processing JSON: Expecting ',' delimiter: line 1 column 8367 (char 8366) - Data: {"paik_8055": {"objektid": "8055", "objektnimi": "Rannavõrkpalliplats", "staatus": "Spordialases kas
+Error processing JSON: Expecting ',' delimiter: line 1 column 961 (char 960) - Data: {"paik_133": {"objektid": "133", "objektnimi": "SEA COURSE", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 1388 (char 1387) - Data: {"paik_9496": {"objektid": "9496", "objektnimi": "Haljala - Veltsi kergliiklustee", "staatus": "Spor
+Error processing JSON: Expecting value: line 1 column 1 (char 0) - Data: nan
+Error processing JSON: Expecting ',' delimiter: line 1 column 295 (char 294) - Data: {"paik_3983": {"objektid": "3983", "objektnimi": "Jõulinnak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 5672 (char 5671) - Data: {"paik_11055": {"objektid": "11055", "objektnimi": "Multifunktsionaalne palliväljak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 321 (char 320) - Data: {"paik_10747": {"objektid": "10747", "objektnimi": "Hill Hill piljardisaal", "staatus": "Spordialase
+Error processing JSON: Expecting ',' delimiter: line 1 column 914 (char 913) - Data: {"paik_6573": {"objektid": "6573", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 883 (char 882) - Data: {"paik_8287": {"objektid": "8287", "objektnimi": "Jõetaguse kodanikukaitse harjutusväljak", "staatus
+Error processing JSON: Expecting ',' delimiter: line 1 column 395 (char 394) - Data: {"paik_9412": {"objektid": "9412", "objektnimi": "Jõhvi Edise jõulinnak", "staatus": "Spordialases k
+Error processing JSON: Expecting ',' delimiter: line 1 column 7925 (char 7924) - Data: {"paik_87": {"objektid": "87", "objektnimi": "Pallimängude saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 408 (char 407) - Data: {"paik_4160": {"objektid": "4160", "objektnimi": "Kuremaa suusarajad", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 56 (char 55) - Data: {"paik_8013": {"objektid": "8013", "objektnimi": "\\\\"Sport Court\\\\" kattega pallimängude väljak"
+Error processing JSON: Expecting ',' delimiter: line 1 column 361 (char 360) - Data: {"paik_2361": {"objektid": "2361", "objektnimi": "Narva Noorte Meremeeste Klubi Kulgu tänava veebaas
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_7762": {"objektid": "7762", "objektnimi": "Parkväljak", "staatus": "Spordialases kasutuses", 
+Error processing JSON: Expecting ',' delimiter: line 1 column 963 (char 962) - Data: {"paik_7543": {"objektid": "7543", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 971 (char 970) - Data: {"paik_3738": {"objektid": "3738", "objektnimi": "Otepää golfiväljak", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 8567 (char 8566) - Data: {"paik_5106": {"objektid": "5106", "objektnimi": "Võimla ", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 968 (char 967) - Data: {"paik_9508": {"objektid": "9508", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 744 (char 743) - Data: {"paik_5984": {"objektid": "5984", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 859 (char 858) - Data: {"paik_9363": {"objektid": "9363", "objektnimi": "Pärnu Raba ekstreemspordikeskus", "staatus": "Spor
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_447": {"objektid": "447", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 1440 (char 1439) - Data: {"paik_9658": {"objektid": "9658", "objektnimi": "Sportimiseks kasutatav kergliiklustee", "staatus":
+Error processing JSON: Expecting ',' delimiter: line 1 column 1841 (char 1840) - Data: {"paik_12118": {"objektid": "12118", "objektnimi": "Terviserada", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 965 (char 964) - Data: {"paik_9649": {"objektid": "9649", "objektnimi": "Rõuge golfiväljak", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 975 (char 974) - Data: {"paik_9507": {"objektid": "9507", "objektnimi": "Saare Golf golfiväljak", "staatus": "Spordialases 
+Error processing JSON: Expecting ',' delimiter: line 1 column 1253 (char 1252) - Data: {"paik_21": {"objektid": "21", "objektnimi": "Squash´i-saal - 1", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 8305 (char 8304) - Data: {"paik_9594": {"objektid": "9594", "objektnimi": "Pallimängusaal", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 1342 (char 1341) - Data: {"paik_1165": {"objektid": "1165", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 316 (char 315) - Data: {"paik_10693": {"objektid": "10693", "objektnimi": "Tallinna Reidi tee jõulinnak", "staatus": "Spord
+Error processing JSON: Expecting ',' delimiter: line 1 column 1807 (char 1806) - Data: {"paik_7676": {"objektid": "7676", "objektnimi": "Mänguväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4695 (char 4694) - Data: {"paik_4522": {"objektid": "4522", "objektnimi": "Tere Tennisekeskuse vaibahall", "staatus": "Spordi
+Error processing JSON: Expecting ',' delimiter: line 1 column 2730 (char 2729) - Data: {"paik_3810": {"objektid": "3810", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 6761 (char 6760) - Data: {"paik_1272": {"objektid": "1272", "objektnimi": "Staadion", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 526 (char 525) - Data: {"paik_11481": {"objektid": "11481", "objektnimi": "Valga Jaanikese Kooli jõulinnak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 2275 (char 2274) - Data: {"paik_10759": {"objektid": "10759", "objektnimi": "Petangihall - 2", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 5648 (char 5647) - Data: {"paik_10620": {"objektid": "10620", "objektnimi": "Võrkpalliplats", "staatus": "Spordialases kasutu
+Error processing JSON: Expecting ',' delimiter: line 1 column 4436 (char 4435) - Data: {"paik_9967": {"objektid": "9967", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 2643 (char 2642) - Data: {"paik_3000": {"objektid": "3000", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 5126 (char 5125) - Data: {"paik_895": {"objektid": "895", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 966 (char 965) - Data: {"paik_7972": {"objektid": "7972", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4615 (char 4614) - Data: {"paik_8203": {"objektid": "8203", "objektnimi": "Tennisehall -1", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 2703 (char 2702) - Data: {"paik_9700": {"objektid": "9700", "objektnimi": "Aruküla tee - Saadjärve kergliiklustee", "staatus"
+Error processing JSON: Expecting ',' delimiter: line 1 column 1245 (char 1244) - Data: {"paik_1004": {"objektid": "1004", "objektnimi": "Squash´i-saal ", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 5508 (char 5507) - Data: {"paik_2404": {"objektid": "2404", "objektnimi": "Võimla", "staatus": "Spordialases kasutuses", "teh
+Error processing JSON: Expecting ',' delimiter: line 1 column 8367 (char 8366) - Data: {"paik_8055": {"objektid": "8055", "objektnimi": "Rannavõrkpalliplats", "staatus": "Spordialases kas
+Error processing JSON: Expecting ',' delimiter: line 1 column 961 (char 960) - Data: {"paik_133": {"objektid": "133", "objektnimi": "SEA COURSE", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 1388 (char 1387) - Data: {"paik_9496": {"objektid": "9496", "objektnimi": "Haljala - Veltsi kergliiklustee", "staatus": "Spor
+Error processing JSON: Expecting value: line 1 column 1 (char 0) - Data: nan
+Error processing JSON: Expecting ',' delimiter: line 1 column 295 (char 294) - Data: {"paik_3983": {"objektid": "3983", "objektnimi": "Jõulinnak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 5672 (char 5671) - Data: {"paik_11055": {"objektid": "11055", "objektnimi": "Multifunktsionaalne palliväljak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 321 (char 320) - Data: {"paik_10747": {"objektid": "10747", "objektnimi": "Hill Hill piljardisaal", "staatus": "Spordialase
+Error processing JSON: Expecting ',' delimiter: line 1 column 914 (char 913) - Data: {"paik_6573": {"objektid": "6573", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 883 (char 882) - Data: {"paik_8287": {"objektid": "8287", "objektnimi": "Jõetaguse kodanikukaitse harjutusväljak", "staatus
+Error processing JSON: Expecting ',' delimiter: line 1 column 395 (char 394) - Data: {"paik_9412": {"objektid": "9412", "objektnimi": "Jõhvi Edise jõulinnak", "staatus": "Spordialases k
+Error processing JSON: Expecting ',' delimiter: line 1 column 7925 (char 7924) - Data: {"paik_87": {"objektid": "87", "objektnimi": "Pallimängude saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 408 (char 407) - Data: {"paik_4160": {"objektid": "4160", "objektnimi": "Kuremaa suusarajad", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 56 (char 55) - Data: {"paik_8013": {"objektid": "8013", "objektnimi": "\\\\"Sport Court\\\\" kattega pallimängude väljak"
+Error processing JSON: Expecting ',' delimiter: line 1 column 361 (char 360) - Data: {"paik_2361": {"objektid": "2361", "objektnimi": "Narva Noorte Meremeeste Klubi Kulgu tänava veebaas
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_7762": {"objektid": "7762", "objektnimi": "Parkväljak", "staatus": "Spordialases kasutuses", 
+Error processing JSON: Expecting ',' delimiter: line 1 column 963 (char 962) - Data: {"paik_7543": {"objektid": "7543", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 971 (char 970) - Data: {"paik_3738": {"objektid": "3738", "objektnimi": "Otepää golfiväljak", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 8567 (char 8566) - Data: {"paik_5106": {"objektid": "5106", "objektnimi": "Võimla ", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 968 (char 967) - Data: {"paik_9508": {"objektid": "9508", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 744 (char 743) - Data: {"paik_5984": {"objektid": "5984", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 859 (char 858) - Data: {"paik_9363": {"objektid": "9363", "objektnimi": "Pärnu Raba ekstreemspordikeskus", "staatus": "Spor
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_447": {"objektid": "447", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 1440 (char 1439) - Data: {"paik_9658": {"objektid": "9658", "objektnimi": "Sportimiseks kasutatav kergliiklustee", "staatus":
+Error processing JSON: Expecting ',' delimiter: line 1 column 1841 (char 1840) - Data: {"paik_12118": {"objektid": "12118", "objektnimi": "Terviserada", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 965 (char 964) - Data: {"paik_9649": {"objektid": "9649", "objektnimi": "Rõuge golfiväljak", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 975 (char 974) - Data: {"paik_9507": {"objektid": "9507", "objektnimi": "Saare Golf golfiväljak", "staatus": "Spordialases 
+Error processing JSON: Expecting ',' delimiter: line 1 column 1253 (char 1252) - Data: {"paik_21": {"objektid": "21", "objektnimi": "Squash´i-saal - 1", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 8305 (char 8304) - Data: {"paik_9594": {"objektid": "9594", "objektnimi": "Pallimängusaal", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 1342 (char 1341) - Data: {"paik_1165": {"objektid": "1165", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 316 (char 315) - Data: {"paik_10693": {"objektid": "10693", "objektnimi": "Tallinna Reidi tee jõulinnak", "staatus": "Spord
+Error processing JSON: Expecting ',' delimiter: line 1 column 1807 (char 1806) - Data: {"paik_7676": {"objektid": "7676", "objektnimi": "Mänguväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4695 (char 4694) - Data: {"paik_4522": {"objektid": "4522", "objektnimi": "Tere Tennisekeskuse vaibahall", "staatus": "Spordi
+Error processing JSON: Expecting ',' delimiter: line 1 column 2730 (char 2729) - Data: {"paik_3810": {"objektid": "3810", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 6761 (char 6760) - Data: {"paik_1272": {"objektid": "1272", "objektnimi": "Staadion", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 526 (char 525) - Data: {"paik_11481": {"objektid": "11481", "objektnimi": "Valga Jaanikese Kooli jõulinnak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 2275 (char 2274) - Data: {"paik_10759": {"objektid": "10759", "objektnimi": "Petangihall - 2", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 5648 (char 5647) - Data: {"paik_10620": {"objektid": "10620", "objektnimi": "Võrkpalliplats", "staatus": "Spordialases kasutu
+Error processing JSON: Expecting ',' delimiter: line 1 column 4436 (char 4435) - Data: {"paik_9967": {"objektid": "9967", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 2643 (char 2642) - Data: {"paik_3000": {"objektid": "3000", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 5126 (char 5125) - Data: {"paik_895": {"objektid": "895", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 966 (char 965) - Data: {"paik_7972": {"objektid": "7972", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4615 (char 4614) - Data: {"paik_8203": {"objektid": "8203", "objektnimi": "Tennisehall -1", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 2703 (char 2702) - Data: {"paik_9700": {"objektid": "9700", "objektnimi": "Aruküla tee - Saadjärve kergliiklustee", "staatus"
+Error processing JSON: Expecting ',' delimiter: line 1 column 1245 (char 1244) - Data: {"paik_1004": {"objektid": "1004", "objektnimi": "Squash´i-saal ", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 5508 (char 5507) - Data: {"paik_2404": {"objektid": "2404", "objektnimi": "Võimla", "staatus": "Spordialases kasutuses", "teh
+Error processing JSON: Expecting ',' delimiter: line 1 column 8367 (char 8366) - Data: {"paik_8055": {"objektid": "8055", "objektnimi": "Rannavõrkpalliplats", "staatus": "Spordialases kas
+Error processing JSON: Expecting ',' delimiter: line 1 column 961 (char 960) - Data: {"paik_133": {"objektid": "133", "objektnimi": "SEA COURSE", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 1388 (char 1387) - Data: {"paik_9496": {"objektid": "9496", "objektnimi": "Haljala - Veltsi kergliiklustee", "staatus": "Spor
+Error processing JSON: Expecting value: line 1 column 1 (char 0) - Data: nan
+Error processing JSON: Expecting ',' delimiter: line 1 column 295 (char 294) - Data: {"paik_3983": {"objektid": "3983", "objektnimi": "Jõulinnak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 5672 (char 5671) - Data: {"paik_11055": {"objektid": "11055", "objektnimi": "Multifunktsionaalne palliväljak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 321 (char 320) - Data: {"paik_10747": {"objektid": "10747", "objektnimi": "Hill Hill piljardisaal", "staatus": "Spordialase
+Error processing JSON: Expecting ',' delimiter: line 1 column 914 (char 913) - Data: {"paik_6573": {"objektid": "6573", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 883 (char 882) - Data: {"paik_8287": {"objektid": "8287", "objektnimi": "Jõetaguse kodanikukaitse harjutusväljak", "staatus
+Error processing JSON: Expecting ',' delimiter: line 1 column 395 (char 394) - Data: {"paik_9412": {"objektid": "9412", "objektnimi": "Jõhvi Edise jõulinnak", "staatus": "Spordialases k
+Error processing JSON: Expecting ',' delimiter: line 1 column 7925 (char 7924) - Data: {"paik_87": {"objektid": "87", "objektnimi": "Pallimängude saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 408 (char 407) - Data: {"paik_4160": {"objektid": "4160", "objektnimi": "Kuremaa suusarajad", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 56 (char 55) - Data: {"paik_8013": {"objektid": "8013", "objektnimi": "\\\\"Sport Court\\\\" kattega pallimängude väljak"
+Error processing JSON: Expecting ',' delimiter: line 1 column 361 (char 360) - Data: {"paik_2361": {"objektid": "2361", "objektnimi": "Narva Noorte Meremeeste Klubi Kulgu tänava veebaas
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_7762": {"objektid": "7762", "objektnimi": "Parkväljak", "staatus": "Spordialases kasutuses", 
+Error processing JSON: Expecting ',' delimiter: line 1 column 963 (char 962) - Data: {"paik_7543": {"objektid": "7543", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 971 (char 970) - Data: {"paik_3738": {"objektid": "3738", "objektnimi": "Otepää golfiväljak", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 8567 (char 8566) - Data: {"paik_5106": {"objektid": "5106", "objektnimi": "Võimla ", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 968 (char 967) - Data: {"paik_9508": {"objektid": "9508", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 744 (char 743) - Data: {"paik_5984": {"objektid": "5984", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 859 (char 858) - Data: {"paik_9363": {"objektid": "9363", "objektnimi": "Pärnu Raba ekstreemspordikeskus", "staatus": "Spor
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_447": {"objektid": "447", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 1440 (char 1439) - Data: {"paik_9658": {"objektid": "9658", "objektnimi": "Sportimiseks kasutatav kergliiklustee", "staatus":
+Error processing JSON: Expecting ',' delimiter: line 1 column 1841 (char 1840) - Data: {"paik_12118": {"objektid": "12118", "objektnimi": "Terviserada", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 965 (char 964) - Data: {"paik_9649": {"objektid": "9649", "objektnimi": "Rõuge golfiväljak", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 975 (char 974) - Data: {"paik_9507": {"objektid": "9507", "objektnimi": "Saare Golf golfiväljak", "staatus": "Spordialases 
+Error processing JSON: Expecting ',' delimiter: line 1 column 1253 (char 1252) - Data: {"paik_21": {"objektid": "21", "objektnimi": "Squash´i-saal - 1", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 8305 (char 8304) - Data: {"paik_9594": {"objektid": "9594", "objektnimi": "Pallimängusaal", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 1342 (char 1341) - Data: {"paik_1165": {"objektid": "1165", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 316 (char 315) - Data: {"paik_10693": {"objektid": "10693", "objektnimi": "Tallinna Reidi tee jõulinnak", "staatus": "Spord
+Error processing JSON: Expecting ',' delimiter: line 1 column 1807 (char 1806) - Data: {"paik_7676": {"objektid": "7676", "objektnimi": "Mänguväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4695 (char 4694) - Data: {"paik_4522": {"objektid": "4522", "objektnimi": "Tere Tennisekeskuse vaibahall", "staatus": "Spordi
+Error processing JSON: Expecting ',' delimiter: line 1 column 2730 (char 2729) - Data: {"paik_3810": {"objektid": "3810", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 6761 (char 6760) - Data: {"paik_1272": {"objektid": "1272", "objektnimi": "Staadion", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 526 (char 525) - Data: {"paik_11481": {"objektid": "11481", "objektnimi": "Valga Jaanikese Kooli jõulinnak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 2275 (char 2274) - Data: {"paik_10759": {"objektid": "10759", "objektnimi": "Petangihall - 2", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 5648 (char 5647) - Data: {"paik_10620": {"objektid": "10620", "objektnimi": "Võrkpalliplats", "staatus": "Spordialases kasutu
+Error processing JSON: Expecting ',' delimiter: line 1 column 4436 (char 4435) - Data: {"paik_9967": {"objektid": "9967", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 2643 (char 2642) - Data: {"paik_3000": {"objektid": "3000", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 5126 (char 5125) - Data: {"paik_895": {"objektid": "895", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 966 (char 965) - Data: {"paik_7972": {"objektid": "7972", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4615 (char 4614) - Data: {"paik_8203": {"objektid": "8203", "objektnimi": "Tennisehall -1", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 2703 (char 2702) - Data: {"paik_9700": {"objektid": "9700", "objektnimi": "Aruküla tee - Saadjärve kergliiklustee", "staatus"
+Error processing JSON: Expecting ',' delimiter: line 1 column 1245 (char 1244) - Data: {"paik_1004": {"objektid": "1004", "objektnimi": "Squash´i-saal ", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 5508 (char 5507) - Data: {"paik_2404": {"objektid": "2404", "objektnimi": "Võimla", "staatus": "Spordialases kasutuses", "teh
+Error processing JSON: Expecting ',' delimiter: line 1 column 8367 (char 8366) - Data: {"paik_8055": {"objektid": "8055", "objektnimi": "Rannavõrkpalliplats", "staatus": "Spordialases kas
+Error processing JSON: Expecting ',' delimiter: line 1 column 961 (char 960) - Data: {"paik_133": {"objektid": "133", "objektnimi": "SEA COURSE", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 1388 (char 1387) - Data: {"paik_9496": {"objektid": "9496", "objektnimi": "Haljala - Veltsi kergliiklustee", "staatus": "Spor
+Error processing JSON: Expecting value: line 1 column 1 (char 0) - Data: nan
+Error processing JSON: Expecting ',' delimiter: line 1 column 295 (char 294) - Data: {"paik_3983": {"objektid": "3983", "objektnimi": "Jõulinnak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 5672 (char 5671) - Data: {"paik_11055": {"objektid": "11055", "objektnimi": "Multifunktsionaalne palliväljak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 321 (char 320) - Data: {"paik_10747": {"objektid": "10747", "objektnimi": "Hill Hill piljardisaal", "staatus": "Spordialase
+Error processing JSON: Expecting ',' delimiter: line 1 column 914 (char 913) - Data: {"paik_6573": {"objektid": "6573", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 883 (char 882) - Data: {"paik_8287": {"objektid": "8287", "objektnimi": "Jõetaguse kodanikukaitse harjutusväljak", "staatus
+Error processing JSON: Expecting ',' delimiter: line 1 column 395 (char 394) - Data: {"paik_9412": {"objektid": "9412", "objektnimi": "Jõhvi Edise jõulinnak", "staatus": "Spordialases k
+Error processing JSON: Expecting ',' delimiter: line 1 column 7925 (char 7924) - Data: {"paik_87": {"objektid": "87", "objektnimi": "Pallimängude saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 408 (char 407) - Data: {"paik_4160": {"objektid": "4160", "objektnimi": "Kuremaa suusarajad", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 56 (char 55) - Data: {"paik_8013": {"objektid": "8013", "objektnimi": "\\\\"Sport Court\\\\" kattega pallimängude väljak"
+Error processing JSON: Expecting ',' delimiter: line 1 column 361 (char 360) - Data: {"paik_2361": {"objektid": "2361", "objektnimi": "Narva Noorte Meremeeste Klubi Kulgu tänava veebaas
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_7762": {"objektid": "7762", "objektnimi": "Parkväljak", "staatus": "Spordialases kasutuses", 
+Error processing JSON: Expecting ',' delimiter: line 1 column 963 (char 962) - Data: {"paik_7543": {"objektid": "7543", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 971 (char 970) - Data: {"paik_3738": {"objektid": "3738", "objektnimi": "Otepää golfiväljak", "staatus": "Spordialases kasu
+Error processing JSON: Expecting ',' delimiter: line 1 column 8567 (char 8566) - Data: {"paik_5106": {"objektid": "5106", "objektnimi": "Võimla ", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 968 (char 967) - Data: {"paik_9508": {"objektid": "9508", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 744 (char 743) - Data: {"paik_5984": {"objektid": "5984", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 859 (char 858) - Data: {"paik_9363": {"objektid": "9363", "objektnimi": "Pärnu Raba ekstreemspordikeskus", "staatus": "Spor
+Error processing JSON: Expecting ',' delimiter: line 1 column 964 (char 963) - Data: {"paik_447": {"objektid": "447", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses", "
+Error processing JSON: Expecting ',' delimiter: line 1 column 1440 (char 1439) - Data: {"paik_9658": {"objektid": "9658", "objektnimi": "Sportimiseks kasutatav kergliiklustee", "staatus":
+Error processing JSON: Expecting ',' delimiter: line 1 column 1841 (char 1840) - Data: {"paik_12118": {"objektid": "12118", "objektnimi": "Terviserada", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 965 (char 964) - Data: {"paik_9649": {"objektid": "9649", "objektnimi": "Rõuge golfiväljak", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 975 (char 974) - Data: {"paik_9507": {"objektid": "9507", "objektnimi": "Saare Golf golfiväljak", "staatus": "Spordialases 
+Error processing JSON: Expecting ',' delimiter: line 1 column 1253 (char 1252) - Data: {"paik_21": {"objektid": "21", "objektnimi": "Squash´i-saal - 1", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 8305 (char 8304) - Data: {"paik_9594": {"objektid": "9594", "objektnimi": "Pallimängusaal", "staatus": "Spordialases kasutuse
+Error processing JSON: Expecting ',' delimiter: line 1 column 1342 (char 1341) - Data: {"paik_1165": {"objektid": "1165", "objektnimi": "Squash´i-saal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 316 (char 315) - Data: {"paik_10693": {"objektid": "10693", "objektnimi": "Tallinna Reidi tee jõulinnak", "staatus": "Spord
+Error processing JSON: Expecting ',' delimiter: line 1 column 1807 (char 1806) - Data: {"paik_7676": {"objektid": "7676", "objektnimi": "Mänguväljak", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 4695 (char 4694) - Data: {"paik_4522": {"objektid": "4522", "objektnimi": "Tere Tennisekeskuse vaibahall", "staatus": "Spordi
+Error processing JSON: Expecting ',' delimiter: line 1 column 2730 (char 2729) - Data: {"paik_3810": {"objektid": "3810", "objektnimi": "Jõusaal", "staatus": "Spordialases kasutuses", "te
+Error processing JSON: Expecting ',' delimiter: line 1 column 6761 (char 6760) - Data: {"paik_1272": {"objektid": "1272", "objektnimi": "Staadion", "staatus": "Spordialases kasutuses", "t
+Error processing JSON: Expecting ',' delimiter: line 1 column 526 (char 525) - Data: {"paik_11481": {"objektid": "11481", "objektnimi": "Valga Jaanikese Kooli jõulinnak", "staatus": "Sp
+Error processing JSON: Expecting ',' delimiter: line 1 column 2275 (char 2274) - Data: {"paik_10759": {"objektid": "10759", "objektnimi": "Petangihall - 2", "staatus": "Spordialases kasut
+Error processing JSON: Expecting ',' delimiter: line 1 column 5648 (char 5647) - Data: {"paik_10620": {"objektid": "10620", "objektnimi": "Võrkpalliplats", "staatus": "Spordialases kasutu
+Error processing JSON: Expecting ',' delimiter: line 1 column 4436 (char 4435) - Data: {"paik_9967": {"objektid": "9967", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 2643 (char 2642) - Data: {"paik_3000": {"objektid": "3000", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses
+Error processing JSON: Expecting ',' delimiter: line 1 column 5126 (char 5125) - Data: {"paik_895": {"objektid": "895", "objektnimi": "Aeroobikasaal", "staatus": "Spordialases kasutuses",
+Error processing JSON: Expecting ',' delimiter: line 1 column 966 (char 965) - Data: {"paik_7972": {"objektid": "7972", "objektnimi": "Golfiväljak", "staatus": "Spordialases kasutuses",
