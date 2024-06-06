@@ -75,7 +75,6 @@ The primary focus is on data manipulation and network analysis to derive meaning
 
 - The `media` folder contains visualizations generated from the analyses.
 - The `gephi` folder contains graph files that can be opened with Gephi for further exploration.
-- The `csv_files` folder contains csv files generated during and after preproccesing steps.
 
 ## Acknowledgments
 
